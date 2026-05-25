@@ -45,6 +45,7 @@ const projects = [
     description:
       "Sistema completo de monitoramento de saúde com foco em controle glicêmico. Autenticação JWT, dashboards interativos com alertas visuais e sistema de recompensas.",
     tech: ["JavaScript", "JWT", "CSS"],
+    link: "https://github.com/Te0dor0/projeto-glicemia",
   },
   {
     name: "StockFlow",
@@ -52,6 +53,7 @@ const projects = [
     description:
       "Aplicação voltada para gestão e produtividade com interface focada em UX e arquitetura modular separando responsabilidades de front-end.",
     tech: ["HTML5", "CSS3", "JavaScript"],
+    link: "https://github.com/Te0dor0/stockflow",
   },
 ];
 
