@@ -6,7 +6,7 @@ import tsconfigPaths from "vite-tsconfig-paths";
 import { tanstackStart } from "@tanstack/react-start/plugin/vite";
 
 export default defineConfig({
-  base: "/my-digital-showcase-110/",
+  base: "/Portifolio-online/",
   plugins: [
     TanStackRouterVite(),
     tanstackStart({ server: { entry: "server" } }),
